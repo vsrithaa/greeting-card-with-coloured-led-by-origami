@@ -27,7 +27,7 @@
 # 5.Conclusion:
 
                                      We successfully made an attractive LED greeting card using simple materials.This activity help us learn the basic working of LED and Battery while improving our creativity and practical skills.
-
+![Result](greeting_card_working_model.jpeg)
                              
 
 ##                                           
